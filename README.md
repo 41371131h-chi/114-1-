@@ -4,4 +4,5 @@
 課程筆記區、作業連結區、專題連結區   
 
 -[practice_0911](https://github.com/41371131h-chi/114-1-/blob/82c5f5863bc42a3e2f57533f45703d9aab470abc/%E4%BD%9C%E6%A5%AD1.ipynb)   
--[practice_0918](https://github.com/41371131h-chi/114-1-/blob/82c5f5863bc42a3e2f57533f45703d9aab470abc/%E4%BD%9C%E6%A5%AD1_0918.ipynb)
+-[practice_0918](https://github.com/41371131h-chi/114-1-/blob/82c5f5863bc42a3e2f57533f45703d9aab470abc/%E4%BD%9C%E6%A5%AD1_0918.ipynb)    
+-[HW1](https://github.com/41371131h-chi/114-1-/blob/b82604ee9569177f89bcb37e50421b8c2fc8841c/HW1.ipynb)   
