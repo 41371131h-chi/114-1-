@@ -10,8 +10,10 @@
 * [practice2_0925](https://github.com/41371131h-chi/114-1-/blob/5183ccfd22f128fb226d2b70d4af17c082088456/HW2.ipynb)
 * 1009的練習被我刪掉了(因為我覺得我做的我越來越看不懂所以刪掉重做)
 * [practice3_1016](https://github.com/41371131h-chi/114-1-/blob/b4f605540d422e0bd1dc215959865cc09eaa365a/HW3.ipynb)
+* [practice4_1023](https://github.com/41371131h-chi/114-1-/blob/c771ccc458780bda79faf5f9a5db514fa62327ac/HW4.ipynb)
 
 ### homework  
 * [HW1](https://github.com/41371131h-chi/114-1-/blob/b82604ee9569177f89bcb37e50421b8c2fc8841c/HW1.ipynb)   
 * [HW2](https://github.com/41371131h-chi/114-1-/blob/5183ccfd22f128fb226d2b70d4af17c082088456/HW2.ipynb)
 * [HW3](https://github.com/41371131h-chi/114-1-/blob/b4f605540d422e0bd1dc215959865cc09eaa365a/HW3.ipynb)
+* [HW4](https://github.com/41371131h-chi/114-1-/blob/c771ccc458780bda79faf5f9a5db514fa62327ac/HW4.ipynb)
