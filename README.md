@@ -8,5 +8,5 @@
 ### homework  
 * [HW1](https://github.com/41371131h-chi/114-1-/blob/b82604ee9569177f89bcb37e50421b8c2fc8841c/HW1.ipynb)   
 * [HW2](https://github.com/41371131h-chi/114-1-/blob/5183ccfd22f128fb226d2b70d4af17c082088456/HW2.ipynb)
-* [HW3](https://github.com/41371131h-chi/114-1-/blob/b4f605540d422e0bd1dc215959865cc09eaa365a/HW3.ipynb)
+* [HW3](https://github.com/41371131h-chi/114-1-/blob/1616ebfc50ecb3f69a32894310f439799ad6f8b9/HW3.ipynb)
 * [HW4](https://github.com/41371131h-chi/114-1-/blob/6c9d9fb349f9b1ef968315f4b6158d97e540e4df/HW4.ipynb)
