@@ -11,3 +11,5 @@
 * [HW3](https://github.com/41371131h-chi/114-1-/blob/1616ebfc50ecb3f69a32894310f439799ad6f8b9/HW3.ipynb)
 * [HW4](https://github.com/41371131h-chi/114-1-/blob/6c9d9fb349f9b1ef968315f4b6158d97e540e4df/HW4.ipynb)
 * [HW5](https://github.com/41371131h-chi/114-1-/blob/68e0cbf913d3b12f06b05948478dc07942f4f71a/HW5.ipynb)
+* [HW6](https://github.com/41371131h-chi/114-1-/blob/5b92ba03e4aa5e14181a2f4ed23a68c545989133/HW6.ipynb)
+  
